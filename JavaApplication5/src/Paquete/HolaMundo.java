@@ -8,6 +8,7 @@ public class HolaMundo {
         System.out.println("Repositorio local cole");
         System.out.println("Mismo ejemplo");
         System.out.println("otro ejemplo");
+        System.out.println("Va saliendo");
 	}
 
 }
