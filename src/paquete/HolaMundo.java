@@ -6,6 +6,7 @@ public class HolaMundo {
         System.out.println("Hola Mundo");
         System.out.println("Me llamo Hal");
         System.out.println("Repositorio local cole");
+        System.out.println("Mismo ejemplo");
 	}
 
 }
